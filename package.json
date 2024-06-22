@@ -23,5 +23,6 @@
         "path": "./themes/Mizu Dark-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "icon.png"
 }
