@@ -7,6 +7,8 @@
     "type": "git",
     "url": "https://github.com/lolafioramanti/Mizu-Dark-Blue-Theme-VScode.git"
   },
+  "publisher": "lolafioramanti",
+  "name": "mizu-dark-blue",
   "engines": {
     "vscode": "^1.90.0"
   },
